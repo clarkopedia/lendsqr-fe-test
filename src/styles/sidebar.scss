@@ -1,0 +1,11 @@
+
+.menu_item {
+  transition: 0.5s;
+}
+
+.menu_item:hover {
+  background: rgba(57, 205, 204, 0.6);
+  p {
+    color: #213f7d !important;
+  }
+}
